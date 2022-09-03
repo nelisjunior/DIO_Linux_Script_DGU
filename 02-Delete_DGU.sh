@@ -63,10 +63,10 @@ echo -e "Removendo diretórios. Por favor, aguarde..."
 #
 sleep 3s
 #
-	rmdir -rf /home/publico &>> $LOG
-	rmdir -rf /home/adm &>> $LOG
-	rmdir -rf /home/ven &>> $LOG
-	rmdir -rf /home/sec &>> $LOG
+	rm -rf /home/publico &>> $LOG
+	rm -rf /home/adm &>> $LOG
+	rm -rf /home/ven &>> $LOG
+	rm -rf /home/sec &>> $LOG
 #
 clear
 echo -e "Diretórios excluídos!"
