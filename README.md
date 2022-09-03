@@ -10,5 +10,7 @@ Pequeno scripts para criação e remoção de usuários, grupos e diretórios!
 
 
 ## Fontes:
+
 https://github.com/vaamonde/ubuntu-2004 \
 https://github.com/denilsonbonatti/linux-projeto1-iac
+https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/
